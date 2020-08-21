@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1596638373, 
-      "filename": "lineage-1.0-20200805-NIGHTLY-sakura.zip", 
-      "id": "XEwdv77GyM2iY3DEXOmb12juZX-mtpPy641rKbSkr08", 
+      "datetime": 1598022543,
+      "filename": "hornbill-1.0-20200821-NIGHTLY-sakura.zip", 
+      "id": "6cec60e174cd9dd5eae54c58465e0d31",
       "romtype": "nightly", 
-      "size": 731902374, 
-      "url": "https://epatshala.in/res/test.zip", 
+      "size": 735802274,
+      "url": "https://master.dl.sourceforge.net/project/hornbillos/sakura/hornbill-1.0-20200821-NIGHTLY-sakura.zip", 
       "version": "1.0"
     }
   ]
