@@ -1,0 +1,256 @@
+=======================
+     2020/10/12
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_motorola_potter/commits/ten
+
+d6154f4 Update aosp.dependencies
+9e079ba Update aosp.dependencies
+
+
+=======================
+     2020/10/11
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_xiaomi_sakura/commits/ten
+
+689c02b Update aosp.dependencies
+563a16b Update aosp.dependencies
+5679688 Update aosp.dependencies
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+f6e0da2d28c Revert "base: moved battery to qs header bar"
+
+* Repository: https://github.com/kdrag0n/proton-clang/commits/master
+
+b89c0dd Update to 20201010 build
+
+
+=======================
+     2020/10/10
+=======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+17d80ee5 recovery: Always use the text menu for rescue party
+2cc59afa recovery: Draw header lines with less padding
+
+* Repository: https://github.com/PixelExperience/device_qcom_sepolicy-legacy-um/commits/ten
+
+571e87f sepolicy-legacy-um: Add sepolices to update engine domain.
+
+* Repository: https://github.com/HornbillOS-Devices/device_xiaomi_beryllium/commits/ten
+
+91cfedf Update aosp.dependencies
+
+* Repository: https://gitlab.pixelexperience.org/android/external_motorola_faceunlock/commits/ten
+
+1b3964a Automatic translation import
+
+* Repository: https://github.com/PixelExperience/hardware_libhardware/commits/ten
+
+61bc5ece audio_amplifier: Add new hook for setting amp feedback
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_display/commits/ten
+
+8570a04c msm8084: hwcomposer: Fix unused parameter build warning
+
+* Repository: https://github.com/PixelExperience/packages_apps_Recorder/commits/ten
+
+0b34bbe Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_apps_Snap/commits/ten
+
+1900e2149 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_apps_Updates/commits/ten
+
+1a79ab1 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
+
+f69ca6bc Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+934d97b Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+c6b2c57 Automatic translation import
+
+
+=======================
+     2020/10/09
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+20ab3f0f410 base: moved battery to qs header bar
+
+
+=======================
+     2020/10/08
+=======================
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+f5dd74a pixelstyle: audio path corrections
+7b66978 pixel: fixed typo [2/2]
+f68c00f pixelstyle: fixed typo
+
+
+=======================
+     2020/10/07
+=======================
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+2ff4dd46 vendor: track device stuffs from hornbill
+
+* Repository: https://gitlab.com/hornbillos/vendor_gapps/commits/ten
+
+061f3b0 gapps: removed soundpicker
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+19b1328 pixelstyle: updated audio from lineage
+
+* Repository: https://gitlab.com/the-muppets/proprietary_vendor_xiaomi/commits/lineage-17.1
+
+51b6febf msm8996-common: Regenerate makefiles
+
+
+=======================
+     2020/10/06
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_xiaomi_beryllium/commits/ten
+
+9a727b4 beryllium: remove pixellivewallpaper
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+40e801efd3e base: Redo expanded volume panel for ten
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+b01866c55d settings: increase text size
+09153d86ef Update settings_homepage_container.xml
+acd70197db Update settings_homepage_container.xml
+93d0310130 settings: decreased the top height
+b2bb6a2a26 settings: change settings name to right
+
+
+=======================
+     2020/10/05
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+d6d55687deb base: SystemUI: Introduce OOS style notification clear all button
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+7820ddcd62 settings: remove divider
+a1d3858717 Update settings_homepage_container.xml
+ded03d14c9 Hornbill Settings Dashboard
+a05dbe2b03 Update dark_theme.xml
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+7273578 pixelstyle: enabled com.android.providers.media
+
+
+=======================
+     2020/10/04
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_xiaomi_beryllium/commits/ten
+
+2015d7c Update aosp.dependencies
+6f922be Update aosp.dependencies
+da2343a beryllium: removed firmware and gcam
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+28bc3b7ef1a Merge pull request #3 from PixelExperience/ten
+
+* Repository: https://github.com/kdrag0n/proton-clang/commits/master
+
+dcd31ae Update to 20201003 build
+
+* Repository: https://gitlab.com/the-muppets/proprietary_vendor_xiaomi/commits/lineage-17.1
+
+172da4cb sdm660-common/wayne-common: Update blobs from jasmine V11.0.14.0.QDIMIXM
+
+
+=======================
+     2020/10/03
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_xiaomi_sakura/commits/ten
+
+1bc4cd3 sakura: Update Build FP From Sunfish September Patch
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+e6d5ff422c7 Revert "base: SystemUI: Introduce OOS style notification clear all button"
+398e039839e base: SystemUI: Introduce OOS style notification clear all button
+862543217fd SystemUI: changed the order of qs tiles
+35f7d75c79b Brightness slider: Move QS brightness slider to the bottom
+6624fad17ba Revert "SystemUI: Move brightness slider to the bottom"
+f9ad9ecdb46 SystemUI: Move brightness slider to the bottom
+
+* Repository: https://gitlab.com/the-muppets/proprietary_vendor_xiaomi/commits/lineage-17.1
+
+9569e105 Merge branch 'lineage-17.1' into 'lineage-17.1'
+a1503cbf onclite: Update thermal blobs from MIUI-V11.0.2.0.QFLCNXM beta
+
+
+=======================
+     2020/10/02
+=======================
+
+* Repository: https://github.com/LineageOS/android_hardware_qcom_display/commits/lineage-17.1-caf-msm8916
+
+2facb060e Gralloc: Validate buffer parameters during importBuffer call
+
+
+=======================
+     2020/10/01
+=======================
+
+
+=======================
+     2020/09/30
+=======================
+
+* Repository: https://github.com/kdrag0n/proton-clang/commits/master
+
+c20752f Restore LLVM license
+39bcd72 Update to 20200929 build
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+a1aae4ea vendor_aosp: introduce lineage messaging
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+65c8869 pixelstyle: removed qksms
+
+
+=======================
+     2020/09/29
+=======================
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+644760a pixelstyle: updated qksms
+6f663c6 Update Android.mk
+755d257 Update Android.mk
+677faed pixelstyle: small correction in boot animation
+dabaa7c pixelstyle: introducing bnotes
+
+
