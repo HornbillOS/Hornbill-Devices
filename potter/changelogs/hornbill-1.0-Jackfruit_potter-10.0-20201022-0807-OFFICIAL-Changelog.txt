@@ -1,0 +1,204 @@
+=======================
+     2020/10/22
+=======================
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+3384a0e9ee settings: wireless icon fix
+187efb3c30 settings: wireless icon fix
+67c21ae5f3 settings: fix color problem
+a3772e2eeb settings: fix color problem
+d00f138cbb settings: search bar margin
+
+
+=======================
+     2020/10/21
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_motorola_potter/commits/ten
+
+958f15c Update aosp.dependencies
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+bc01801895 settings: bye contextual card
+a6246c6164 settings: fix contextual card
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+82206928 vendor: nuke Launcher3
+
+
+=======================
+     2020/10/20
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+1a6f1998480 base: moved the edit to right
+f8381d56038 base: qs typo
+fa3ae6e3458 base: qs layout change
+fb412b1ad1c base: move battery to qs header
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+6c12f16 pixelstyle: changed default qs layout
+
+
+=======================
+     2020/10/19
+=======================
+
+
+=======================
+     2020/10/18
+=======================
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten
+
+4fde320 manifest: Track Mediatek Vendor
+
+
+=======================
+     2020/10/17
+=======================
+
+* Repository: https://github.com/PixelExperience/device_mediatek_sepolicy/commits/ten
+
+4864e37 device: mtk: sepolicy: Address Netflix Denials
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+ef9e9639 vendor: include quickstep also
+fdb0047f vendor: include launcher3 into build
+
+
+=======================
+     2020/10/16
+=======================
+
+
+=======================
+     2020/10/15
+=======================
+
+
+=======================
+     2020/10/14
+=======================
+
+* Repository: https://github.com/HornbillOS/build/commits/ten
+
+2f2ac59ff Bump Security String to 2020-10-05
+
+* Repository: https://github.com/HornbillOS/build_soong/commits/ten
+
+992c27b4 13/10/2020 (#2)
+
+
+=======================
+     2020/10/13
+=======================
+
+* Repository: https://github.com/HornbillOS/build_soong/commits/ten
+
+992c27b4 13/10/2020 (#2)
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+5e6e997f0d2 fixup - fwb: Add screen off fod [1/2]
+432c54b0d70 Automatic translation import
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+f567497fd1 Automatic translation import
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+a75c5101 extract_utils: Set `filename_from_src: true` for `CLASS=ETC` targets
+1ac0a8e0 apns: Enable IPV6 for China Telecom
+dfb4fc69 apns: Enable IPV6 for China Unicom
+de7984de apns: Enable IPV6 for China Mobile
+64f417ca Update APNs for O2 Germany & E-Plus
+d8eb202d apns: Checkout to Lineage
+b8b65841 extract_utils: Fix system_ext framework blueprint generation.
+
+
+=======================
+     2020/10/12
+=======================
+
+* Repository: https://github.com/HornbillOS-Devices/device_motorola_potter/commits/ten
+
+d6154f4 Update aosp.dependencies
+9e079ba Update aosp.dependencies
+
+
+=======================
+     2020/10/11
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+f6e0da2d28c Revert "base: moved battery to qs header bar"
+
+
+=======================
+     2020/10/10
+=======================
+
+* Repository: https://github.com/PixelExperience/bootable_recovery/commits/ten
+
+17d80ee5 recovery: Always use the text menu for rescue party
+2cc59afa recovery: Draw header lines with less padding
+
+* Repository: https://github.com/PixelExperience/device_qcom_sepolicy-legacy-um/commits/ten
+
+571e87f sepolicy-legacy-um: Add sepolices to update engine domain.
+
+* Repository: https://gitlab.pixelexperience.org/android/external_motorola_faceunlock/commits/ten
+
+1b3964a Automatic translation import
+
+* Repository: https://github.com/PixelExperience/hardware_libhardware/commits/ten
+
+61bc5ece audio_amplifier: Add new hook for setting amp feedback
+
+* Repository: https://github.com/PixelExperience/hardware_qcom_display/commits/ten
+
+8570a04c msm8084: hwcomposer: Fix unused parameter build warning
+
+* Repository: https://github.com/PixelExperience/packages_apps_Recorder/commits/ten
+
+0b34bbe Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_apps_Snap/commits/ten
+
+1900e2149 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_apps_Updates/commits/ten
+
+1a79ab1 Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_providers_DownloadProvider/commits/ten
+
+f69ca6bc Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_resources_devicesettings-custom/commits/ten
+
+934d97b Automatic translation import
+
+* Repository: https://github.com/PixelExperience/packages_services_BuiltInPrintService/commits/ten
+
+c6b2c57 Automatic translation import
+
+
+=======================
+     2020/10/09
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+20ab3f0f410 base: moved battery to qs header bar
+
+
