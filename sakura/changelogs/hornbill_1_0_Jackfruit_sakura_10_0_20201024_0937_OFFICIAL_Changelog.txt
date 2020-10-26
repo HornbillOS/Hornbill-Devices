@@ -1,0 +1,171 @@
+=======================
+     2020/10/24
+=======================
+
+
+=======================
+     2020/10/23
+=======================
+
+* Repository: https://github.com/HornbillOS/build_soong/commits/ten
+
+21a3adb2 soong: java: Specify larger heap size for metalava
+a51f61f9 soong: java: Tune java compiler flags for low ram systems
+
+
+=======================
+     2020/10/22
+=======================
+
+* Repository: /commits/ten
+
+64dadec sakura: Update LPA Interface version
+8ac68aa sakura: Add IImsFactory and uceservice HAL entry
+6319431 sakura: Grant rw permission to hgsl node
+8d67c83 sakura: init: Update ueventd rules and init rc for new audio drivers
+e1440dc sakura: Add permissions for RCS service
+2e11e5d sakura: sec_config: Add net_raw permissions for time_daemon service
+5012049 sakura: Prebuild Some Camera Blobs From Stock
+4495caa sakura: Add Hal support for IMS callinfo
+5874df6 sakura: Add default interface for renderscript hal
+5c9ceeb sakura: Add Missing Manifest Entry For radio.lpa
+2f73330 sakura: Switch To QtiRadio HAL To Version 2.3
+4d440c3 sakura: Split hal version for ISap, IRadio
+5741a5c sakura: telephony: Up rev radio hal versions
+d43d84a sakura: Move ConfigStore Flags To System Properties
+eada0a9 sakura: Build configstore 1.1 HAL
+861ff2f sakura: camera: Build libdng_sdk.vendor
+33ad859 sakura: Enable VNDK Runtime Isolation
+389ba96 sakura: Update Device Build FP From Sunfish October Patch
+
+
+=======================
+     2020/10/21
+=======================
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+3384a0e9ee settings: wireless icon fix
+187efb3c30 settings: wireless icon fix
+67c21ae5f3 settings: fix color problem
+a3772e2eeb settings: fix color problem
+d00f138cbb settings: search bar margin
+bc01801895 settings: bye contextual card
+a6246c6164 settings: fix contextual card
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+82206928 vendor: nuke Launcher3
+
+
+=======================
+     2020/10/20
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+1a6f1998480 base: moved the edit to right
+
+* Repository: https://github.com/HornbillOS/vendor_pixelstyle/commits/ten
+
+6c12f16 pixelstyle: changed default qs layout
+
+
+=======================
+     2020/10/19
+=======================
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+f8381d56038 base: qs typo
+fa3ae6e3458 base: qs layout change
+fb412b1ad1c base: move battery to qs header
+
+
+=======================
+     2020/10/18
+=======================
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten
+
+4fde320 manifest: Track Mediatek Vendor
+
+
+=======================
+     2020/10/17
+=======================
+
+* Repository: https://github.com/PixelExperience/device_mediatek_sepolicy/commits/ten
+
+4864e37 device: mtk: sepolicy: Address Netflix Denials
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+ef9e9639 vendor: include quickstep also
+fdb0047f vendor: include launcher3 into build
+
+
+=======================
+     2020/10/16
+=======================
+
+
+=======================
+     2020/10/15
+=======================
+
+
+=======================
+     2020/10/14
+=======================
+
+
+=======================
+     2020/10/13
+=======================
+
+* Repository: https://github.com/HornbillOS/build/commits/ten
+
+2f2ac59ff Bump Security String to 2020-10-05
+
+* Repository: https://github.com/HornbillOS/build_soong/commits/ten
+
+992c27b4 13/10/2020 (#2)
+
+* Repository: https://github.com/HornbillOS/frameworks_base/commits/ten
+
+5e6e997f0d2 fixup - fwb: Add screen off fod [1/2]
+432c54b0d70 Automatic translation import
+
+* Repository: https://github.com/HornbillOS/packages_apps_Settings/commits/ten
+
+f567497fd1 Automatic translation import
+
+* Repository: https://github.com/HornbillOS/vendor_aosp/commits/ten
+
+a75c5101 extract_utils: Set `filename_from_src: true` for `CLASS=ETC` targets
+1ac0a8e0 apns: Enable IPV6 for China Telecom
+dfb4fc69 apns: Enable IPV6 for China Unicom
+de7984de apns: Enable IPV6 for China Mobile
+64f417ca Update APNs for O2 Germany & E-Plus
+d8eb202d apns: Checkout to Lineage
+b8b65841 extract_utils: Fix system_ext framework blueprint generation.
+
+
+=======================
+     2020/10/12
+=======================
+
+
+=======================
+     2020/10/11
+=======================
+
+* Repository: /commits/ten
+
+4de5154 Update aosp.dependencies
+689c02b Update aosp.dependencies
+563a16b Update aosp.dependencies
+5679688 Update aosp.dependencies
+
+
