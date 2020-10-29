@@ -1,5 +1,4 @@
-
-  GNU nano 2.9.3            hornbill-1.0-Jackfruit_kenzo-10.0-20201028-1720-OFFICIAL-Changelog.txt                      
+                      
 =======================
      2020/10/29
 =======================
