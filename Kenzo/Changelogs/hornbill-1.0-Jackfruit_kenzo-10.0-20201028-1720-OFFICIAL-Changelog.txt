@@ -1,1 +1,49 @@
 
+  GNU nano 2.9.3            hornbill-1.0-Jackfruit_kenzo-10.0-20201028-1720-OFFICIAL-Changelog.txt                      
+=======================
+     2020/10/29
+=======================
+
+* Repository: https://github.com/PixelExperience/frameworks_av/commits/ten
+
+4acffed15 fix Miracast for devices using HDCP method
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten
+
+b8e7623 Revert "manifest: Switch to ssh for vendor blobs"
+61bdf2d manifest: Switch to ssh for vendor blobs
+
+* Repository: https://github.com/PixelExperience/system_bt/commits/ten
+
+0401ea672 Add support force disable sco enhanced sync commands                                                          82dfceb78 Revert "Add support to force disable enhanced sco commands"
+
+=======================
+     2020/10/28
+=======================
+
+
+=======================                                                                                                      2020/10/27
+=======================
+
+=======================
+     2020/10/26
+=======================
+
+
+=======================
+     2020/10/25
+=======================
+
+
+=======================
+     2020/10/24
+=======================
+
+
+=======================
+     2020/10/23
+=======================
+
+
+=======================
+     2020/10/22
