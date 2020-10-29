@@ -1,0 +1,41 @@
+=======================
+     2020/10/29
+=======================
+
+* Downgrade openGL to 3.0 version
+
+* Now elindir Kernel 5.1 come as Default
+
+* Repository: https://github.com/PixelExperience/frameworks_av/commits/ten
+
+4acffed15 fix Miracast for devices using HDCP method
+
+* Repository: https://github.com/PixelExperience/manifest/commits/ten
+
+b8e7623 Revert "manifest: Switch to ssh for vendor blobs"
+61bdf2d manifest: Switch to ssh for vendor blobs
+
+* Repository: https://github.com/PixelExperience/system_bt/commits/ten
+
+0401ea672 Add support force disable sco enhanced sync commands
+82dfceb78 Revert "Add support to force disable enhanced sco commands"
+
+
+=======================
+     2020/10/28
+=======================
+
+
+=======================
+     2020/10/27
+=======================
+
+
+=======================
+     2020/10/26
+=======================
+
+
+=======================
+     2020/10/25
+=======================                                                                                    
