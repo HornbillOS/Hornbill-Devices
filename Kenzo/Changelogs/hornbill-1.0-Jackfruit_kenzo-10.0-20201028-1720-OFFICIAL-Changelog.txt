@@ -2,6 +2,9 @@
 =======================
      2020/10/29
 =======================
+* Downgrade openGL to 3.0 version
+
+* Now elindir Kernel 5.1 come as Default
 
 * Repository: https://github.com/PixelExperience/frameworks_av/commits/ten
 
