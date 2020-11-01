@@ -5,6 +5,7 @@ We Official Support these devices:
 - POCOPHONE F1
 - Redmi 6 Pro
 - Moto G5 Plus
+- Redmi Note 3
 
 ## Do you want to go official?
 ---
